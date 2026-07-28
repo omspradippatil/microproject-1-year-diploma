@@ -63,7 +63,7 @@ Educational material. Refer to your institution's policies for usage guidelines.
 
 ##  Support
 
-If you find this project helpful, consider [supporting me](https://ompradippatil.netlify.app/donate).
+If you find this project helpful, consider [supporting me](https://om-patil.com/donate).
 
 ---
 
